@@ -1,0 +1,14 @@
+.Dictionary {
+  color: white;
+}
+
+.Dictionary .container {
+  background-color: #2f2fa2;
+  margin-top: 60px;
+  width: 900px;
+}
+
+.Dictionary input {
+  margin: 20px 0px;
+  width: 300px;
+}
