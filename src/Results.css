@@ -1,0 +1,22 @@
+.Results {
+  color: #2f2fa2;
+  text-align: left;
+  font-family: "Rubik", sans-serif;
+}
+
+.Results .container-fluid {
+  border: solid 3px #2f2fa2;
+  margin-top: 30px;
+  max-width: 550px;
+}
+
+.Results h1 {
+  font-size: 40px;
+  margin: 20px 10px 0px 25px;
+}
+
+.Results h2 {
+  text-align: left;
+  margin: 0px 25px;
+  font-size: 20px;
+}

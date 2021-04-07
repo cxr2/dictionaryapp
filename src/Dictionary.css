@@ -4,8 +4,9 @@
 
 .Dictionary .container {
   background-color: #2f2fa2;
-  margin-top: 60px;
-  width: 900px;
+  margin-top: 40px;
+  width: 550px;
+  border-radius: 10px;
 }
 
 .Dictionary input {
