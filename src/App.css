@@ -3,17 +3,17 @@ body {
   font-family: "Patua One", cursive;
 }
 
-header {
+.App-header {
   margin-top: 30px;
 }
 
-h1 {
+.App h1 {
   font-size: 60px;
   width: 300px;
   margin: 0 auto;
 }
 
-h2 {
+.App h2 {
   font-family: arial;
   font-size: 15px;
   width: 300px;
