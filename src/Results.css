@@ -31,4 +31,5 @@
 
 .fas:hover {
   background-color: #f64c72;
+  cursor: pointer;
 }
