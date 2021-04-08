@@ -9,7 +9,8 @@ function App() {
           <h1>Dictionary</h1>
         </header>
         <h2>
-          created by <a href="https://cjhoulihan.com">C.J.Houlihan</a>
+          <a href="https://github.com/cxr2/dictionaryapp">open-source code</a>{" "}
+          by <a href="https://cjhoulihan.com">C.J.Houlihan</a>
         </h2>
         <main>
           <Dictionary />
