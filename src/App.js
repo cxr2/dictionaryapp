@@ -8,12 +8,12 @@ function App() {
         <header className="App-header">
           <h1>Dictionary</h1>
         </header>
-        <h2>
+        <h5>
           <a href="https://github.com/cxr2/dictionaryapp">open-source code</a>{" "}
           by <a href="https://cjhoulihan.com">C.J.Houlihan</a>
-        </h2>
+        </h5>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="winner" />
         </main>
       </div>
     </div>

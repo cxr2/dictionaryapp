@@ -1,0 +1,23 @@
+h2 {
+  text-align: left;
+  margin: 0px 25px 0px 25px;
+  font-size: 20px;
+  line-height: 5px;
+}
+
+.Phonetic .text {
+  opacity: 0.9;
+}
+
+.fas {
+  margin-left: 10px;
+  color: white;
+  background-color: #2f2fa2;
+  border-radius: 30px;
+  padding: 7px 7px;
+}
+
+.fas:hover {
+  background-color: #f64c72;
+  cursor: pointer;
+}
