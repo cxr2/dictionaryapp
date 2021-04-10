@@ -14,7 +14,7 @@ export default function Results(props) {
               return (
                 <div key={index}>
                   <Phonetic phonetic={phonetic} />
-                  <br />
+                  <hr />
                 </div>
               );
             })}

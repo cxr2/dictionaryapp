@@ -1,0 +1,15 @@
+.Photos {
+  border: solid 3px #2f2fa2;
+  margin-top: 30px;
+  padding: 10px 20px;
+}
+
+.Photos img {
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 5px 5px;
+}
+
+.Photos .col-4 {
+  padding: 0;
+}

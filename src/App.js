@@ -13,7 +13,7 @@ function App() {
           by <a href="https://cjhoulihan.com">C.J.Houlihan</a>
         </h5>
         <main>
-          <Dictionary defaultKeyword="winner" />
+          <Dictionary defaultKeyword="sunset" />
         </main>
       </div>
     </div>
