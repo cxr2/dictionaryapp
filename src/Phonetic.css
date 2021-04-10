@@ -9,7 +9,7 @@ h2 {
   opacity: 0.9;
 }
 
-.fas {
+.Phonetic .fa-volume-up {
   margin-left: 10px;
   color: white;
   background-color: #2f2fa2;
@@ -17,7 +17,7 @@ h2 {
   padding: 7px 7px;
 }
 
-.fas:hover {
+.fa-volume-up:hover {
   background-color: #f64c72;
   cursor: pointer;
 }

@@ -56,6 +56,13 @@ export default function Dictionary(props) {
               onChange={handleKeywordChange}
               defaultValue={props.defaultKeyword}
             />
+            <button
+              class="btn btn-outline-secondary"
+              type="button"
+              id="button-addon2"
+            >
+              <i className="fas fa-search"></i>
+            </button>
           </form>
         </div>
         <Results results={results} />
