@@ -15,7 +15,11 @@ export default function Photos(props) {
                   rel="noreferrer"
                   alt="Photos of your search"
                 >
-                  <img src={photo.src.landscape} className="img-fluid" />
+                  <img
+                    src={photo.src.landscape}
+                    className="img-fluid"
+                    alt="gallery of search results"
+                  />
                 </a>
               </div>
             );
